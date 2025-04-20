@@ -67,11 +67,16 @@
 
 
 
-
-
+### 📈 Contribution Graph:
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100vw">
 <div align="center">
-  😍 Total Views on Profile:<br><br> 
-  <img src="https://profile-counter.glitch.me/suryadwd/count.svg" alt="Visitor Count" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=suryadwd&radius=16&theme=redical&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
+<br>
+
+### 🐍 Snake-Eating My Contribution Graph:
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
+
+![snake gif](https://github.com/suryadwd/suryadwd/blob/output/github-snake-dark.svg)
 
 
